@@ -343,4 +343,9 @@ return [
         ],
     ],
 
+    'providers' => [
+    Filament\FilamentServiceProvider::class,
+    // Otros proveedores de servicios
+],
+
 ];
